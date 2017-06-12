@@ -1,0 +1,8 @@
+TheMovieDB iOS APP
+
+
+Ideja je da se napravi aplikacija koja će da dovuče spisak žanrova sa https://www.themoviedb.org/documentation/api  i prikaze u nekoj listi unutar aplikacije. Klikom na red iz tabele se otvara novi ViewController na kome se prikazuju svi filmovi iz rte kategorije-žana. Klikom na red iz tabele se otvara novi ViewController na kome se prikazuje trailer(ako je dostupan) i neki osnovni podaci o filmu, kao sto je naslov, rejting itd.
+
+Odlučio sam se da to bude https://www.themoviedb.org/documentation/api  jer je to sajt koji je najpotpuniji i najažurniji, ako izuzmemo IMDB koji nema otvoren API za developere. TheMovieDB obezbedjuje i dokumentaciju za API sto znači da će app koju napravimo raditi jer se neće desiti da neko ugasi svoj servis kao sto bi se verovatno desilo ako koristimo neki od open source apija za IMDB kojih ima dosta na internetu.
+
+Što se tiče dizajna same aplikacije, možemo da nacrtamo nešto što će da izgleda pristojno, bez da potrosimo mnogo resursa na dizajn, a možemo i ići bez dizajna i koristiti samo native iOS sto je ako mene pitate isto ok.
